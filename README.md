@@ -2,7 +2,7 @@
 
 ![N|Solid](https://sdtimes.com/wp-content/uploads/2018/03/spring-boot-490x257.png)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
+[![Build](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDBhEGCbcNMs0Fmi3iaRUqAuZJMe17zGVKC7vA0_wYPbRKI08)](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 
 Trilha de video aulas do canal DevDojo no YouTube.
 

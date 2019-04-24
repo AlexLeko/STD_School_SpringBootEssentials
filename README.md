@@ -17,10 +17,23 @@ Trilha de video aulas do canal DevDojo no YouTube.
 * [Aula 07](https://www.youtube.com/watch?v=694TB6CL55I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=8) - Padrões REST e PUT e DELETE pt 03
 * [Aula 08](https://www.youtube.com/watch?v=HXR9id5YE7Q&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=9) - Adicionando Spring Data JPA com MySQL pt 01
 * [Aula 09](https://www.youtube.com/watch?v=bUBIkFnJqNc&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=10) - Adicionando Spring Data JPA com MySQL pt 02
+* [Aula 10](https://www.youtube.com/watch?v=SdBtC-rXUck&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=11) - Tratamento de erros em REST pt 01
+* [Aula 11](https://www.youtube.com/watch?v=dPKzQnKKoMQ&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=12) - Tratamento de erros em REST pt 02 - Exception Handler
+* [Aula 12](https://www.youtube.com/watch?v=cjsJydOLhCo&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=13) - Tratamento de erros em REST pt 03 - Transações
+* [Aula 13](https://www.youtube.com/watch?v=Oiem7WETQsI&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=14) - Tratamento de erros em REST pt 04 - Validação de campos
+* [Aula 14](https://www.youtube.com/watch?v=Hl-5KcmRiDQ&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=15) - Tratamento de erros em REST pt 05 - Padronizando todos os erros
+* [Aula 15](https://www.youtube.com/watch?v=bYv-BdGrAg0&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=16) - Paginação em requisições REST
+* [Aula 16](https://www.youtube.com/watch?v=AdDna85EWmc&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=17) - Ordenação em requisições REST
+* [Aula 17](https://www.youtube.com/watch?v=Nwhp_C_BG6c&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=18) - Spring Security pt 01 - Autenticação e autorização
+* [Aula 18](https://www.youtube.com/watch?v=2DSZL7j0UiU&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=19) - Spring Security pt 02 - Autenticação e autorização com Spring Data
+* [Aula 19](https://www.youtube.com/watch?v=KYmyg2-c_OI&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=20) - Spring Security pt 03 - Proteção das URLs com AntMatcher
+* [Aula 20](https://www.youtube.com/watch?v=jl0rfsVX1ss&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=21) - Exemplo de conexão com Java Puro
+
 
 ##### Créditos DevDojo
 - Informações: http://www.devdojo.com.br
 - Dúvidas: william.suane@devdojo.com.br
 - Novidades: https://www.facebook.com/devdojobr/
 - Fonte(Original): https://github.com/devdojobr/springboot-essentials
+
 

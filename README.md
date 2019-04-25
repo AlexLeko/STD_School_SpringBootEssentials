@@ -4,9 +4,11 @@
 
 [![Build](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDBhEGCbcNMs0Fmi3iaRUqAuZJMe17zGVKC7vA0_wYPbRKI08)](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 
+```
 Trilha de video aulas do canal DevDojo no YouTube.
+```
 
-##### Aulas:
+> ### Aulas:
 * [Aula 00](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1) - Apresentação do Curso
 * [Aula 01](https://www.youtube.com/watch?v=SEfntdMLgjM&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=2) - Setup do projeto
 * [Aula 02](https://www.youtube.com/watch?v=04B9ChWxpW0&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=3) - @Component, @Autowired e @SpringBootApplication
@@ -29,11 +31,19 @@ Trilha de video aulas do canal DevDojo no YouTube.
 * [Aula 19](https://www.youtube.com/watch?v=KYmyg2-c_OI&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=20) - Spring Security pt 03 - Proteção das URLs com AntMatcher
 * [Aula 20](https://www.youtube.com/watch?v=jl0rfsVX1ss&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=21) - Exemplo de conexão com Java Puro
 
+> Em desenvolvimento...
+
+### Tecnologias:
+ -  Java 8
+ - Spring Boot 2.1.4
+ - Maven 4.0.0
+ - Hibernate 6.0.16
+ - IntelliJ 2019.1
+ - MySQL Community Server 8.0.16
+ - MySQL Workbench 8.0.15
 
 ##### Créditos DevDojo
 - Informações: http://www.devdojo.com.br
 - Dúvidas: william.suane@devdojo.com.br
 - Novidades: https://www.facebook.com/devdojobr/
 - Fonte(Original): https://github.com/devdojobr/springboot-essentials
-
-

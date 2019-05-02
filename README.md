@@ -30,11 +30,17 @@ Trilha de video aulas do canal DevDojo no YouTube.
 * [Aula 18](https://www.youtube.com/watch?v=2DSZL7j0UiU&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=19) - Spring Security pt 02 - Autenticação e autorização com Spring Data
 * [Aula 19](https://www.youtube.com/watch?v=KYmyg2-c_OI&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=20) - Spring Security pt 03 - Proteção das URLs com AntMatcher
 * [Aula 20](https://www.youtube.com/watch?v=jl0rfsVX1ss&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=21) - Exemplo de conexão com Java Puro
+* [Aula 21](https://www.youtube.com/watch?v=2163qLWZraY&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=22) - Cliente Spring com RestTemplate pt 01 GET
+* [Aula 22](https://www.youtube.com/watch?v=AapEEmyTt2s&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=23) - Cliente Spring com RestTemplate pt 02 GET Pageable
+* [Aula 23](https://www.youtube.com/watch?v=lzB2gH5QnR4&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=24) - Cliente Spring com RestTemplate pt 03 POST
+* [Aula 24](https://www.youtube.com/watch?v=Lno99od6LEk&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=25) - Cliente Spring com RestTemplate pt 03 PUT e DELETE
+
+
 
 > Em desenvolvimento...
 
 ### Tecnologias:
- -  Java 8
+ - Java 1.8
  - Spring Boot 2.1.4
  - Maven 4.0.0
  - Hibernate 6.0.16

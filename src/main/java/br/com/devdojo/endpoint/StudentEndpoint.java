@@ -70,7 +70,6 @@ public class StudentEndpoint {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
-
     private void verifyIfStudentExistes(Long id){
         Optional<Student> student = studentDAO.findById(id);
         //Student student = studentDAO.findById(id).get();

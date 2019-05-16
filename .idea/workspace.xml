@@ -7,6 +7,7 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/StudentEndpointTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/StudentRepositoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-essentials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-essentials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/model/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/model/AbstractEntity.java" afterDir="false" />
@@ -43,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/StudentEndpointTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="162" column="70" selection-start-line="162" selection-start-column="70" selection-end-line="162" selection-end-column="70" />
+            <state relative-caret-position="374">
+              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -421,12 +422,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentEndpointTest_getStudentByIdWhenUserNameAndPassworkAreCorrectAndStudentDoesExistShouldReturnStatus404 - 2019.05.08 at 16h 43m 49s.xml">
-      <configuration name="StudentEndpointTest.getStudentByIdWhenUserNameAndPassworkAreCorrectAndStudentDoesExistShouldReturnStatus404" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentEndpointTest - 2019.05.08 at 16h 44m 27s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentEndpointTest_deleteWhenUserHasRoleAdminAndStudentExistsShouldReturnStatusCode200 - 2019.05.15 at 15h 53m 12s.xml">
       <configuration name="StudentEndpointTest.deleteWhenUserHasRoleAdminAndStudentExistsShouldReturnStatusCode200" configurationId="JUnit" />
     </history-entry>
@@ -451,6 +446,12 @@
     <history-entry file="StudentEndpointTest_createWhenNameIsNullShouldReturnStatusCode400BadRequest - 2019.05.16 at 14h 07m 14s.xml">
       <configuration name="StudentEndpointTest.createWhenNameIsNullShouldReturnStatusCode400BadRequest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StudentEndpointTest_createShouldPersistDataAndReturnStatusCode201 - 2019.05.16 at 14h 10m 53s.xml">
+      <configuration name="StudentEndpointTest.createShouldPersistDataAndReturnStatusCode201" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentEndpointTest - 2019.05.16 at 14h 11m 54s.xml">
+      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,7 +464,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" weight="0.2534413" />
@@ -474,12 +474,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.5026455" side_tool="true" weight="0.2531983" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.54444444" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.54444444" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.57" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32777777" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32777777" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32777777" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32777777" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32777777" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32777777" />
@@ -948,8 +948,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/StudentEndpointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="162" column="70" selection-start-line="162" selection-start-column="70" selection-end-line="162" selection-end-column="70" />
+        <state relative-caret-position="374">
+          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

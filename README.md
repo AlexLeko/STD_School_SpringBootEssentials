@@ -34,7 +34,10 @@ Trilha de video aulas do canal DevDojo no YouTube.
 * [Aula 22](https://www.youtube.com/watch?v=AapEEmyTt2s&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=23) - Cliente Spring com RestTemplate pt 02 GET Pageable
 * [Aula 23](https://www.youtube.com/watch?v=lzB2gH5QnR4&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=24) - Cliente Spring com RestTemplate pt 03 POST
 * [Aula 24](https://www.youtube.com/watch?v=Lno99od6LEk&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=25) - Cliente Spring com RestTemplate pt 03 PUT e DELETE
-
+* [Aula 25](https://www.youtube.com/watch?v=VtT_v-hkzlQ&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=26) - Testes Unitários para o Repositório com @DataJpaTest
+* [Aula 26](https://www.youtube.com/watch?v=r-AjutnnoQM&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=27) - Atualizando Springboot e resolvendo bugs de importação
+* [Aula 27](https://www.youtube.com/watch?v=y8I9EtqXbxQ&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=28) - Testes de integração com MockMvc, Mockito e AssertJ pt 01
+* [Aula 28](https://www.youtube.com/watch?v=1E9pL9atxkU&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1&index=29) - Testes de integração com MockMvc, Mockito e AssertJ pt 02
 
 
 > Em desenvolvimento...
